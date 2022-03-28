@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-practice",
+  "version": "1.0.0",
+  "description": "Learning and testing tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css",
+    "start": ""
+  },
+  "author": "Nazem Mahmud Piash",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
